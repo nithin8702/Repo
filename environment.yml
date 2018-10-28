@@ -5,5 +5,7 @@ dependencies:
   - python
   - numpy
   - pip:
+    - nbgitpuller
+    - sphinx-gallery
     - pandas
     - matplotlib
