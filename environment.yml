@@ -2,8 +2,10 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.6.5
   - numpy
+  - imutils
+  - opencv
   - pip:
     - nbgitpuller
     - sphinx-gallery

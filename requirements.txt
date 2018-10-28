@@ -3,5 +3,3 @@ matplotlib==2.0.2
 seaborn==0.8.1
 pandas
 pandas-datareader
-imutils
-opencv
